@@ -8,3 +8,5 @@ Maintainer: Who to complain to <yourfault@somewhere.net>
 Description: This package prints my name
 License: What license is it under?
 RoxygenNote: 7.2.1
+Imports: 
+    firstpackage
